@@ -1,0 +1,3 @@
+dburl=jdbc:mysql://mysql.cs.wwu.edu/wendlir_CS330
+user=wendlir_writer
+password=DHVCAJjx4
